@@ -99,6 +99,7 @@ header{
 
   /* Your code here */
   /* Set background-image to header.jpg in the images folder */
+  background-color: black;
   background-image: url("../images/header.jpg");
 
   /* Span one row */
